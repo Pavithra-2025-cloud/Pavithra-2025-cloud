@@ -1,16 +1,28 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**Pavithra-2025-cloud/Pavithra-2025-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pavithra, a Data Analyst based in Bangalore.
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover insights, solve business problems, and build clear, meaningful visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills & Tools
+
+* SQL — Data querying, joins, CTEs, subqueries & analysis
+* Python — Pandas, NumPy, Matplotlib & Seaborn
+* Power BI — Dashboards, data modeling & DAX
+* Excel — Data cleaning, analysis & reporting
+
+What I'm Working On
+
+* Building data analytics projects using real-world datasets
+* Improving my SQL and Python problem-solving skills
+* Creating interactive dashboards and data visualizations
+* Learning to turn data into actionable business insights
+
+Featured Projects
+
+You'll find projects here covering data cleaning, exploratory data analysis, SQL analysis, dashboards, and business insights.
+
+🤝 Let's Connect
+
+I'm always open to learning, collaborating on interesting data projects, and connecting with people in the data analytics community.
+
